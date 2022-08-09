@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StephenNeelDurai
-- 👀 I’m interested in ⚽ Soccer and 💻 Technology
+- I love ⚽ Soccer. I'm working as a Software Engineer 💻 
 
 <!---
 StephenNeelDurai/StephenNeelDurai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
